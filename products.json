@@ -1,0 +1,196 @@
+{
+  "products": [
+    {
+      "title": "Women Leather Jacket",
+      "price": "2000.00",
+      "image": "./images/pic1.png",
+      "category": "featured"
+    },
+    {
+      "title": "Men Sports Shoe",
+      "price": "1000.00",
+      "image": "./images/pic2.png",
+      "category": "trend"
+    },
+    {
+      "title": "Arena Regular Bag",
+      "price": "600.00",
+      "image": "./images/pic3.png",
+      "category": "featured"
+    },
+    {
+      "title": "Men Silky Black Shirt",
+      "price": "800.00",
+      "image": "./images/pic4.png",
+      "category": "trend"
+    },
+    {
+      "title": "Women Handy Purse",
+      "price": "900.00",
+      "image": "./images/pic5.png",
+      "category": "featured"
+    },
+    {
+      "title": "Women Regular One-Piece",
+      "price": "1000.00",
+      "image": "./images/pic6.png",
+      "category": "recent"
+    },
+    {
+      "title": "Women High Hills",
+      "price": "850.00",
+      "image": "./images/pic7.png",
+      "category": "trend"
+    },
+    {
+      "title": "Men Cotton Shirt",
+      "price": "750.00",
+      "image": "./images/pic8.png",
+      "category": "featured"
+    },
+    {
+      "title": "Net Cocktail Dress",
+      "price": "2000.00",
+      "image": "./images/pic9.png",
+      "category": "recent"
+    },
+    {
+      "title": "Comfort Men Shoe",
+      "price": "600.00",
+      "image": "./images/pic10.png",
+      "category": "trend"
+    },
+    {
+      "title": "Women Leather Purse",
+      "price": "1999.00",
+      "image": "./images/pic11.png",
+      "category": "special"
+    },
+    {
+      "title": "Women Trendy Jacket",
+      "price": "1500.00",
+      "image": "./images/pic12.png",
+      "category": "special"
+    },
+    {
+      "title": "Nike Women Shoe",
+      "price": "1000.00",
+      "image": "./images/pic13.png",
+      "category": "special"
+    },
+    {
+      "title": "Women close-neck Top",
+      "price": "600.00",
+      "image": "./images/pic14.png",
+      "category": "recent"
+    },
+    {
+      "title": "High Density Bag",
+      "price": "1200.00",
+      "image": "./images/pic15.png",
+      "category": "special"
+    },
+    {
+      "title": "Men Denim Jacket",
+      "price": "1500.00",
+      "image": "./images/pic16.png",
+      "category": "latest"
+    },
+    {
+      "title": "Women stylish Top",
+      "price": "650.00",
+      "image": "./images/pic17.png",
+      "category": "recent"
+    },
+    {
+      "title": "Women Leather Clutch",
+      "price": "1500.00",
+      "image": "./images/pic18.png",
+      "category": "latest"
+    },
+    {
+      "title": "Men Casual I-shirt",
+      "price": "850.00",
+      "image": "./images/pic19.png",
+      "category": "latest"
+    },
+    {
+      "title": "Ogio Laptop Bag",
+      "price": "1000.00",
+      "image": "./images/pic20.png",
+      "category": "latest"
+    },
+    {
+      "title": "Men Trendy Shoe",
+      "price": "1000.00",
+      "image": "./images/pic21.png",
+      "category": "latest"
+    },
+    {
+      "title": "Women Sleeveless Top",
+      "price": "600.00",
+      "image": "./images/pic22.png",
+      "category": "latest"
+    },
+    {
+      "title": "Purse Clutch Combo",
+      "price": "2000.00",
+      "image": "./images/pic23.png",
+      "category": "latest"
+    },
+    {
+      "title": "Women Daily Footwear",
+      "price": "650.00",
+      "image": "./images/pic24.png",
+      "category": "latest"
+    },
+    {
+      "title": "Spalding Travel Bag",
+      "price": "1000.00",
+      "image": "./images/pic25.png",
+      "category": "latest"
+    },
+    {
+      "title": "Men Casual Shoe",
+      "price": "1200.99",
+      "image": "./images/pic26.png",
+      "category": "latest"
+    },
+    {
+      "title": "Women Rayon Shrug",
+      "price": "500.00",
+      "image": "./images/pic27.png",
+      "category": "latest"
+    },
+    {
+      "title": "Women Sport Shoe",
+      "price": "1500.00",
+      "image": "./images/pic28.png",
+      "category": "latest"
+    },
+    {
+      "title": "Men Leather Jacket",
+      "price": "2000.00",
+      "image": "./images/pic29.png",
+      "category": "latest"
+    },
+    {
+      "title": "Burton Small Bag",
+      "price": "649.00",
+      "image": "./images/pic30.png",
+      "category": "latest"
+    },
+    {
+      "title": "Men Trendy Casual",
+      "price": "799.00",
+      "image": "./images/pic31.png",
+      "category": "latest"
+    },
+    {
+      "title": "Pink Cocktail Dress",
+      "price": "2500.00",
+      "image": "./images/pic32.png",
+      "category": "latest"
+    }
+  ]
+}
