@@ -5,7 +5,7 @@ const getProducts = async () => {
   return products;
 };
 
-// Display Product
+// Display all Product
 const displayProducts = (products, center) => {
   let display = products.map(
     ({ title, image, price }) => `<div class="product">
