@@ -1,7 +1,7 @@
 const glide1 = document.getElementById("glide1");
 const glide2 = document.getElementById("glide2");
 const glide3 = document.getElementById("glide3");
-
+//for glide1
 if (glide1)
   new Glide(glide1, {
     type: "carousel",
