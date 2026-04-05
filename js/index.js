@@ -1,4 +1,4 @@
-// Nav
+// Navbar
 const nav = document.querySelector(".nav-menu");
 const navigation = document.querySelector(".navigation");
 const openBtn = document.querySelector(".hamburger");
