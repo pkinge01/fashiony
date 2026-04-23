@@ -49,7 +49,7 @@ const displayProducts = (products, center) => {
   center.innerHTML = display;
 };
 
-// Filtering / sorting 
+// Filtering / sorting products 
 const catContainer = document.querySelector(".sort-category");
 const filterBtns = [...document.querySelectorAll(".filter-btn")];
 
